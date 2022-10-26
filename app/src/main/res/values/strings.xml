@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NfcApp</string>
+    <string name="message_write_error">Qualcosa è andato storto nel scrivere il messaggio nel tag !</string>
+    <string name="message_write_success">Scrittura avvenuta con successo!</string>
+    <string name="message_write_progress">Scrivo nel Tag..</string>
+    <string name="message_tag_detected">NFC Tag Rilevato !</string>
+    <string name="message_read_tag">Leggi dal Tag NFC</string>
+    <string name="message_write_tag">Scrivi sul tag NFC</string>
+    <string name="message_tap_tag">Tap the NFC Tag to your device !</string>
+    <string name="hint_message">Messaggio</string>
+</resources>
